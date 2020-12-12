@@ -1,5 +1,6 @@
 # cs638 - Terry Ghanty
 
-I am currently undecided on which project I am taking on. This week, I looked at Trash/Recycling Tonnage.
+The project I took on this semester involves analyzing online meeting data for the city of Madison. I co-authored with report with Shri Shruthi Shridhar. 
 
-9/28 - switched from Trash/Recycling Tonnage to Meeting notes
+Link to report: http://bit.ly/3oLIUWD
+
